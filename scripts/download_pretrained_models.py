@@ -114,17 +114,17 @@ if __name__ == '__main__':
         },
         'DFDNet': {
             'DFDNet_dict_512-f79685f0.pth':
-            '1iH00oMsoN_1OJaEQw3zP7_wqiAYMnY79',
+            '1QE-0uOHRtpfkG0Co5_JF-ASgS6GoqO4v',
             'DFDNet_official-d1fa5650.pth':
-            '1u6Sgcp8gVoy4uVTrOJKD3y9RuqH2JBAe'
+            '1NZANn5X02Dt2ZuSra9flGF7MDXq7PQpb'
         },
         'dlib': {
             'mmod_human_face_detector-4cb19393.dat':
-            '1FUM-hcoxNzFCOpCWbAUStBBMiU4uIGIL',
+            '10w57dG7HnzMtsC4ZfdHf0jmA0naTnbwO',
             'shape_predictor_5_face_landmarks-c4b1e980.dat':
-            '1PNPSmFjmbuuUDd5Mg5LDxyk7tu7TQv2F',
+            '1E5CqndVWIz18HfVCc_2tdkyhn-y7ML-T',
             'shape_predictor_68_face_landmarks-fbdc2cb8.dat':
-            '1IneH-O-gNkG0SQpNCplwxtOAtRCkG2ni'
+            '1a-1V_EA60f-C2-f0oDFnez_zEJ_chizb'
         }
     }
 
